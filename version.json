@@ -1,0 +1,12 @@
+{
+  "version": "2.3",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v2.3",
+  "changelog": "• Nâng cấp tính năng mới & tối ưu tốc độ xử lý ổn định hơn.\n• Giữ nguyên toàn bộ Bản quyền, Tài khoản Chrome & Dự án đang làm.",
+  "publishedAt": "2026-10-27T02:28:02.090Z",
+  "mandatory": false,
+  "patchFile": "update_v2.3.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.3.zip",
+  "patchSize": 123248,
+  "sha256": "6e959f20860c6ed78529382411bc9d458b3129468f7e16d3cee83b428f80c5a2",
+  "signature": "TiKOntg6dDEqB8cYcQy9SKS5vN8e1hawq2R1xQu0up9G3lpV2xHMFL9jU9iqfp5P-FxPc5HUOq1g2PjDYW2kNAMvtNcCDiVBD7PSW7-6cXt2FiymEH6K-i479G_vAoQb2QH3X8gcsVKM20aOlhxi_S6dSDsiBIWdyn5z-JhZZbnDH_Y0xv5Cx4EhirMxpCw9dFhrm-i1TnA48u4DQ9XMnvOMHXYOQUQcdQcZaak8VDLuyZoJBhofoAdYhCTKukOJ-kIufcShsTLWHEijZU-Jja2hUXNy_8Z1SsRvV_umO74dt3xFN-i-HzOYbZZQY_T5DCNbScRHUTJB5ffTcAnCWA"
+}
