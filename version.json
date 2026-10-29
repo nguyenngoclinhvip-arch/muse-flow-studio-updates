@@ -1,12 +1,12 @@
 {
-  "version": "2.4",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v2.4",
-  "changelog": "• Khắc phục triệt để 100% lỗi 'Cannot GET /' (tự động phát hiện & dọn tiến trình ngầm bị kẹt cổng 3888, tự chuyển cổng dự phòng khi xung đột, phục vụ trực tiếp HTML/JS/CSS trên mọi tên thư mục có dấu/ký tự đặc biệt).\n• Nâng cấp Bộ cài đặt Setup.exe & Launcher 2.4: Tự động cảnh báo hướng dẫn nếu khách bấm chạy nhầm bên trong cửa sổ WinRAR chưa giải nén, tự dọn biểu tượng phiên bản cũ trên Desktop.\n• Đóng gói chuẩn thư mục bọc gọn MUSE_FLOW_STUDIO_2.4_NGUYEN_LINH_AI cho cả định dạng .RAR và .ZIP.",
-  "publishedAt": "2026-10-28T12:23:21.864Z",
+  "version": "2.5",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v2.5",
+  "changelog": "• Bổ sung dòng nhập thời lượng video tùy chỉnh (hỗ trợ nhập theo Giây hoặc Phút từ 5 giây đến 60 phút / 3600s) kèm các nút chọn nhanh video dài (1p30s, 2 phút, 3 phút, 5 phút, 10 phút).\n• Tối ưu công nghệ ghép nối video dài nhiều phân đoạn: lưu bộ nhớ đệm chuẩn hóa O(N) từng đoạn, chia lô chuyển cảnh xfade không tràn RAM và phân bổ nhịp điệu kịch bản 3 hồi tự động xuyên suốt video dài.",
+  "publishedAt": "2026-10-29T06:42:19.428Z",
   "mandatory": false,
-  "patchFile": "update_v2.4.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.4.zip",
-  "patchSize": 140728,
-  "sha256": "03364659b58a7123f0921a1cb6af49a52ed834bc9b0f02f12c058bb98f49ff46",
-  "signature": "RN6N-ZzEh14l_u7FRscHLVwOYTxEX4MFzly7OatQfCXJiW3zIPHpiBmPBeYGNgB7BGJ6de0FFbpknEp73hiUkWzhNkT70llXcfg0G3bFAWfpRJg1-29rZLBuPysXRWzLm7iJoGTbOm4O1iO-830vhWiAswzaM49eAwQz7gMFpquxvQIwuhMMFzc6Olk14h_kesGMksX713Eajp6VqyYKYWsyyfVVvB6iNvZ1Ol-1NyTIo2tkSdMkxjYmisan49t4y6g-w_R2TyovJX6gNr5oHSf7OgY4J29ZceDWWiIb_Kew2WKXFISp6X5SOkVaf3f6JYgPV0mxpdgophYDFuEToA"
+  "patchFile": "update_v2.5.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.5.zip",
+  "patchSize": 144386,
+  "sha256": "35d180377f07ee68b55e9cda397d21d48297bd30e928d826cce6258bb2b1f673",
+  "signature": "UcQ1FaEAR86PriY9BsC_bSl-BEZb4CMJi2xnuqp7Hoc0i2YCEGqonf79s5oCoM6zqK_cuZoDWHpkH9FIg2yIk8SgZuqygrqVGVpODH9OA8nQlA63CpHDBQkDZgZ-umFt-0ACk3OS0_CTG17ZCT_TRE4qhMhtQ4Y3-_9L3ks1B2E_8mrPMABqMOtoUDKjHGONU8lAtc-xNtWyki0CG0EBEfVHTaDWZT7WB25eQ-9ejD_5jQWg_wElD8SJ3uWWQeVPzHHpNXA_s8Jw-J1NCTlaTunVyL7b2RY4adX5dnhQhk5FlAW2HsvI93lzE0Co5gEnoyC80-k8uJ74U35bwF3fxA"
 }
