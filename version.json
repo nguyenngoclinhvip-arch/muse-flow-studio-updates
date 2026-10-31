@@ -1,12 +1,12 @@
 {
-  "version": "2.5",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v2.5",
-  "changelog": "• Bổ sung dòng nhập thời lượng video tùy chỉnh (hỗ trợ nhập theo Giây hoặc Phút từ 5 giây đến 60 phút / 3600s) kèm các nút chọn nhanh video dài (1p30s, 2 phút, 3 phút, 5 phút, 10 phút).\n• Tối ưu công nghệ ghép nối video dài nhiều phân đoạn: lưu bộ nhớ đệm chuẩn hóa O(N) từng đoạn, chia lô chuyển cảnh xfade không tràn RAM và phân bổ nhịp điệu kịch bản 3 hồi tự động xuyên suốt video dài.",
-  "publishedAt": "2026-10-29T06:42:19.428Z",
+  "version": "2.6",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v2.6 — Video Mẫu Tham Chiếu AI",
+  "changelog": "• Bổ sung tính năng tải Video Mẫu Tham Chiếu (gắn Chung ở cột trái hoặc gắn Riêng từng hàng).\n• Thêm 3 nút tích lọc thông minh: Học cử chỉ & chuyển động, Học góc máy & Camera, Học bối cảnh & ánh sáng (tắt bối cảnh sẽ khóa 100% nền gốc của ảnh nhân vật).\n• Giữ nguyên 100% khuôn mặt & trang phục từ ảnh tham chiếu, kết hợp linh hoạt với thời lượng chỉnh tay (5s -> 60 phút).",
+  "publishedAt": "2026-10-31T19:10:50.114Z",
   "mandatory": false,
-  "patchFile": "update_v2.5.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.5.zip",
-  "patchSize": 144386,
-  "sha256": "35d180377f07ee68b55e9cda397d21d48297bd30e928d826cce6258bb2b1f673",
-  "signature": "UcQ1FaEAR86PriY9BsC_bSl-BEZb4CMJi2xnuqp7Hoc0i2YCEGqonf79s5oCoM6zqK_cuZoDWHpkH9FIg2yIk8SgZuqygrqVGVpODH9OA8nQlA63CpHDBQkDZgZ-umFt-0ACk3OS0_CTG17ZCT_TRE4qhMhtQ4Y3-_9L3ks1B2E_8mrPMABqMOtoUDKjHGONU8lAtc-xNtWyki0CG0EBEfVHTaDWZT7WB25eQ-9ejD_5jQWg_wElD8SJ3uWWQeVPzHHpNXA_s8Jw-J1NCTlaTunVyL7b2RY4adX5dnhQhk5FlAW2HsvI93lzE0Co5gEnoyC80-k8uJ74U35bwF3fxA"
+  "patchFile": "update_v2.6.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.6.zip",
+  "patchSize": 154124,
+  "sha256": "e98ce569982ba2145c8859a3e0ca13c1ae558343d4c7ffc65ba9350727f6dae9",
+  "signature": "eKylAHSObe5ihfl0WF1O4wgH6i1m1WCZyIdncRDMg4QmHC17FRWwhrEVZanGPgOCWv-ZmrWhHWTJ3H2jEdaCm8ckIixU8Ch2CFYsZLlCp7BFBwmJpoi1QwidNoNFCb8urSIsiQsy0kBvapKWAZ8Wou8F4bb42HC3y09tZ4TjsLfvCvrAa0s-sraOaAag9Wsh7GHVkJqi37ZRiQQT8ina6h9id38P6ykihtRGOeuHr_S3JykxgAZjkQ87W-3TxgTBgjCP5pmBWLOwHPEKKN9wZ3WOBGMPitY6FQQZ63YAcfTcaAOQFPcoadNYsTYAJhLcOBNOo9Rw_VQ4qIopmRRPYg"
 }
