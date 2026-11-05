@@ -1,12 +1,12 @@
 {
-  "version": "2.9",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v2.9 — Khóa Khuôn Mặt Kép & AI Sinh Trắc Học 100%",
-  "changelog": "• Phương án 1 (Khóa Mặt Kép trực tiếp trên Muse.ai): Hỗ trợ Ảnh Mặt Gốc Chung ở Sidebar, tự động cắt ảnh Cận Mặt 768px PNG không nén đính kèm song song, chèn lệnh khóa giải phẫu khuôn mặt ở mọi phân đoạn (chống méo mặt khi nhép môi) và tách phiên chat sạch chống ám mặt cũ.\n• Phương án 2 (Hậu kỳ AI Sinh Trắc Học 100% trên máy): Tích hợp động cơ ONNX (SCRFD + ArcFace 512D + INSwapper + GFPGAN 512px HD) cài tự động 1 chạm và nút \"🧬 Khóa Mặt\" riêng trên từng hàng, giữ 100% khẩu hình thoại & âm thanh Stereo 44.1kHz.\n• Giữ nguyên toàn bộ Key Bản quyền, Tài khoản Chrome đã đăng nhập, Dự án, Skill AI & Video đã lưu.",
-  "publishedAt": "2026-11-05T05:14:08.509Z",
+  "version": "3.0",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.0 — Khóa Pixel 1:1 Mặt, Màu Da & Ánh Sáng Gốc (BT.709)",
+  "changelog": "• Đã gỡ bỏ hoàn toàn Phương án 2 (Hậu kỳ ONNX + GFPGAN gây đổi nét da, xóa nốt ruồi & sai ánh sáng) và dọn nhẹ ~780 MB ổ cứng.\n• Nâng cấp Khóa Pixel Khung 0.0s (1 Ảnh Gốc nguyên bản duy nhất): giữ Muse.ai ở chế độ True Single-Image First-Frame I2V thay vì Multi-Image Synthesis.\n• Bổ sung Chế độ Video dài (≥20s) \"Khóa Ảnh Gốc mỗi đoạn 10s\": Phần 2, 3, 4... dựng trực tiếp từ Ảnh Tham Chiếu Gốc trên phiên chat sạch — giống 100% mặt, màu da & ánh sáng như Đoạn 1.\n• Chuẩn hóa không gian màu HD Rec.709 (bt709) + H.264 High Profile CRF 15/16 khi cắt nối FFmpeg — triệt tiêu lỗi ngả vàng cam màu da (Rec.601) và nhòe nét.",
+  "publishedAt": "2026-11-05T09:04:46.851Z",
   "mandatory": false,
-  "patchFile": "update_v2.9.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.9.zip",
-  "patchSize": 212668,
-  "sha256": "40035d499c206b985ef5bd7485c968cec33be5cb116086d5d2dda5091d585542",
-  "signature": "GpwblOif7Mt7OzwY5_Ms8mlFvfG4PmKNWHWaMcbB174n33WOH9T-3e0jqhFslDOEO0kT3FNksUp0Yk_WxDUn9QvbQVxr0N9HzY0rnU_iUEhpySypK9FcvkMN6-rM17TsvF1fNRoUzaStYSzP8KjDkZicZM97Ucuv98X4W228LmURimQdMblijA7zzCoadxOsj3s8kyp4M--2efNACCswz_YqX0hvFKK44gQYRDH957oAWMibvYpiAayKzZPMf2j5aV1DEH7GYU62XRjl_CffefZINyrqiCY5IKgLEK5_-T5OBMeBN-9wRY5r2PWu5_U0-v7P4Vcm6gBd8sBbC2vWpA"
+  "patchFile": "update_v3.0.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.0.zip",
+  "patchSize": 192659,
+  "sha256": "891baeb5ce348bad627390121d9ac62adb8031981c1bf3f84c916adccaa9b725",
+  "signature": "EcPJJrtk_EWjFeNOhUKmssXjlu0wg3rMxc_CE_KiMWpZplMvrfussihkCUknK27ZulGVkh-KB2lH-75LoO5M9Uq0NcLJbcMbDCjtkL4rz0LcJiNGY7f5rfyUm4T7P5bkKHw8Vmh5ovephioEf5thIQe7yurKSgZVK-HeR_oFR_1tIZiRLmCXvJrqdxLaIlOvjAKuS9nf9GTAqXgporavHJouPkMdqc1bmQmKyzuIH-X1-S-yV14SyFGnKySaOf7FDFmZwC31hDk59T__6yfQfz6SjoL9_x3qH-zVZ4cRJqowPM6dH4jMZ6awR1EMDQdU65EXBSbmSNjHwXgN6WQAvQ"
 }
