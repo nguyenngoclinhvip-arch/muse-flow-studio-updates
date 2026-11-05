@@ -1,12 +1,12 @@
 {
-  "version": "2.7",
-  "title": "Nâng Cấp v2.7 — Đính Kèm 1–5 Ảnh Biến Hình Đa Trang Phục & Bộ Đôi Skill Quạt Chuyển Cảnh",
-  "changelog": "• Hỗ trợ gắn 1–5 ảnh tham chiếu / bộ trang phục trên cùng 1 hàng để làm video Biến Hình Thay Nhiều Bộ Đồ liên hoàn (giữ 100% cùng một gương mặt & bối cảnh gốc).\n• Tự động đồng bộ động tác che quạt / đạo cụ che ống kính (Prop Lens-Wipe) giữa các phân đoạn 10s để đổi sang đúng bộ trang phục mới mà không lộ vết cắt.\n• Nâng cấp AI Viết Prompt Theo Skill đọc toàn bộ chuỗi 2–5 ảnh trên từng hàng và gợi ý nhanh thời lượng khớp số bộ đồ (⚡ Đặt 20s / 30s / 40s).\n• Tích hợp sẵn 2 Skill mới: 🪭 Skill Biến Hình Thay Đồ Bằng Quạt — Lookbook Ngoại Cảnh & ✨ Skill Biến Hình Glow-Up Phòng Ngủ.",
-  "publishedAt": "2026-11-03T18:01:20.267Z",
+  "version": "2.8",
+  "title": "MUSE FLOW STUDIO v2.8 — Khung Lời Thoại Riêng, Tự Cắt \"...\" Theo Nhịp 10s & Giọng Đọc Chung",
+  "changelog": "• Tách riêng khung nhập Lời thoại nhân vật ngay bên dưới khung Prompt chuyển động trên từng hàng.\n• Nâng cấp chế độ tự động cắt từng câu thoại trong ngoặc kép \"...\" gán chính xác cho từng phân đoạn 10s nối tiếp nhau (không lặp câu, không lấn nhịp giữa các phần).\n• Thêm nút \"✂️ Tự chia ...\" trên từng hàng để tự động tách đoạn văn dài thành các câu \"...\" cân đối ~20–22 chữ khớp số nhịp 10s.\n• Thêm bảng chọn 14 Giọng đọc chung ở Sidebar (Bắc / Trung / Nam / MC / Podcast / Quốc tế / Tự mô tả) áp dụng đồng nhất cho tất cả các hàng.\n• Tối ưu nối âm thanh đa phân đoạn (micro-crossfade 0.18s khi có lời thoại) giúp tiếng nói liền mạch tại ranh giới 10s.",
+  "publishedAt": "2026-11-05T02:41:13.390Z",
   "mandatory": false,
-  "patchFile": "update_v2.7.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.7.zip",
-  "patchSize": 172078,
-  "sha256": "e707f21c155f69a2f229c2fee07d921697c00ecd5095189368f7c53cee5835b9",
-  "signature": "Pk-II8ihmne-l32Abr2FPyRZ16ruFSCtn8XbihSt2ApoWwmT-InFUIPnqnXZ_cQG0nRIf5VK9FOa4Y1EyLgjRnTrpWw2OFR3F2B-voVsQhAR6O_A9NplnK3L0ShE4nmxuCJDmZEC45KfdjL-jNh0YsJ3Z8ghyozoI5Z_Ig0K9zBbacwXuj4r78wwa2ZN8mi1n0eYv5EeOWmtera6NqxKLihAe2pkr4GhkyYbOUszISM5LEISnNn5TZSs6Zx3bZMqbeXQYJMHGNSAJNUXt7MV5UqAiqNangHiKpNSMYF56iRf7mU1rE0hk96RaoE3HBeq6qGKsBfbZHa1G3To57Ttlg"
+  "patchFile": "update_v2.8.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.8.zip",
+  "patchSize": 184906,
+  "sha256": "16b522df0cb5fa1cc2914b5494254a23492a222b0e3bf0797e8d72128a8f6c7c",
+  "signature": "KbZBAfgBVcfZeTm1yV_VDHQhT8DEjzXwPJHVpBUT8EPFplR8iwqoTWP9FMxx3x_yjv3SU33eS6TWi7wpA6fOVkotAGOsEdol5qyzd5YDzWNIzxzsXnjqQBo_AlNzaCULNHRSQD1OQpE8HtD1lg6kMyW5t0qoEG7C9WYR5PWPeKLpUN-Ne2Ya8LcHMkm9qGOztrixgB-KbhwFzaviZfjIfe0mWOF0aoWs1jkrsC9EGpaU0R5mL1DHj0dwvQoxOXHcTAw0ORZFZElGsCuFaScp_88LwQ01b81XNvWdWXI89uUYJuEVZhMsksZHKaWu_-KaArWSn2zj-TM0t7ylPkg0kA"
 }
