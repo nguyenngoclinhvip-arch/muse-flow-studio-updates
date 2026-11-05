@@ -1,12 +1,12 @@
 {
-  "version": "2.8",
-  "title": "MUSE FLOW STUDIO v2.8 — Khung Lời Thoại Riêng, Tự Cắt \"...\" Theo Nhịp 10s & Giọng Đọc Chung",
-  "changelog": "• Tách riêng khung nhập Lời thoại nhân vật ngay bên dưới khung Prompt chuyển động trên từng hàng.\n• Nâng cấp chế độ tự động cắt từng câu thoại trong ngoặc kép \"...\" gán chính xác cho từng phân đoạn 10s nối tiếp nhau (không lặp câu, không lấn nhịp giữa các phần).\n• Thêm nút \"✂️ Tự chia ...\" trên từng hàng để tự động tách đoạn văn dài thành các câu \"...\" cân đối ~20–22 chữ khớp số nhịp 10s.\n• Thêm bảng chọn 14 Giọng đọc chung ở Sidebar (Bắc / Trung / Nam / MC / Podcast / Quốc tế / Tự mô tả) áp dụng đồng nhất cho tất cả các hàng.\n• Tối ưu nối âm thanh đa phân đoạn (micro-crossfade 0.18s khi có lời thoại) giúp tiếng nói liền mạch tại ranh giới 10s.",
-  "publishedAt": "2026-11-05T02:41:13.390Z",
+  "version": "2.9",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v2.9 — Khóa Khuôn Mặt Kép & AI Sinh Trắc Học 100%",
+  "changelog": "• Phương án 1 (Khóa Mặt Kép trực tiếp trên Muse.ai): Hỗ trợ Ảnh Mặt Gốc Chung ở Sidebar, tự động cắt ảnh Cận Mặt 768px PNG không nén đính kèm song song, chèn lệnh khóa giải phẫu khuôn mặt ở mọi phân đoạn (chống méo mặt khi nhép môi) và tách phiên chat sạch chống ám mặt cũ.\n• Phương án 2 (Hậu kỳ AI Sinh Trắc Học 100% trên máy): Tích hợp động cơ ONNX (SCRFD + ArcFace 512D + INSwapper + GFPGAN 512px HD) cài tự động 1 chạm và nút \"🧬 Khóa Mặt\" riêng trên từng hàng, giữ 100% khẩu hình thoại & âm thanh Stereo 44.1kHz.\n• Giữ nguyên toàn bộ Key Bản quyền, Tài khoản Chrome đã đăng nhập, Dự án, Skill AI & Video đã lưu.",
+  "publishedAt": "2026-11-05T05:14:08.509Z",
   "mandatory": false,
-  "patchFile": "update_v2.8.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.8.zip",
-  "patchSize": 184906,
-  "sha256": "16b522df0cb5fa1cc2914b5494254a23492a222b0e3bf0797e8d72128a8f6c7c",
-  "signature": "KbZBAfgBVcfZeTm1yV_VDHQhT8DEjzXwPJHVpBUT8EPFplR8iwqoTWP9FMxx3x_yjv3SU33eS6TWi7wpA6fOVkotAGOsEdol5qyzd5YDzWNIzxzsXnjqQBo_AlNzaCULNHRSQD1OQpE8HtD1lg6kMyW5t0qoEG7C9WYR5PWPeKLpUN-Ne2Ya8LcHMkm9qGOztrixgB-KbhwFzaviZfjIfe0mWOF0aoWs1jkrsC9EGpaU0R5mL1DHj0dwvQoxOXHcTAw0ORZFZElGsCuFaScp_88LwQ01b81XNvWdWXI89uUYJuEVZhMsksZHKaWu_-KaArWSn2zj-TM0t7ylPkg0kA"
+  "patchFile": "update_v2.9.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v2.9.zip",
+  "patchSize": 212668,
+  "sha256": "40035d499c206b985ef5bd7485c968cec33be5cb116086d5d2dda5091d585542",
+  "signature": "GpwblOif7Mt7OzwY5_Ms8mlFvfG4PmKNWHWaMcbB174n33WOH9T-3e0jqhFslDOEO0kT3FNksUp0Yk_WxDUn9QvbQVxr0N9HzY0rnU_iUEhpySypK9FcvkMN6-rM17TsvF1fNRoUzaStYSzP8KjDkZicZM97Ucuv98X4W228LmURimQdMblijA7zzCoadxOsj3s8kyp4M--2efNACCswz_YqX0hvFKK44gQYRDH957oAWMibvYpiAayKzZPMf2j5aV1DEH7GYU62XRjl_CffefZINyrqiCY5IKgLEK5_-T5OBMeBN-9wRY5r2PWu5_U0-v7P4Vcm6gBd8sBbC2vWpA"
 }
