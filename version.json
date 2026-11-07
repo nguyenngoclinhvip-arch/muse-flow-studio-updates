@@ -1,12 +1,12 @@
 {
-  "version": "3.2",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v3.2",
-  "changelog": "• Bổ sung Bảng Đăng Nhập Trực Tiếp Ngay Trong Phần Mềm (nhập Email/SĐT, Mã OTP 6 số, Mật khẩu & 2FA trực tiếp, không lộ Chrome).\n• Bổ sung Khung Đăng Nhập Nhanh (Popup Gọn 480x700 ẩn toàn bộ thanh địa chỉ & tab Chrome, đăng nhập xong tự đóng chuyển chạy ngầm).\n• Tự động sửa triệt để lỗi kẹt khóa Profile (SingletonLock) & lỗi xung đột tiến trình chạy ngầm khi mở đăng nhập.",
-  "publishedAt": "2026-11-07T17:55:47.497Z",
+  "version": "3.3",
+  "title": "MUSE FLOW STUDIO v3.3 — Tinh Gọn Quản Lý Tài Khoản, Tách Màu Nền Nổi Bật & Hướng Dẫn Mới",
+  "changelog": "• Gộp duy nhất 1 nút Quản lý Tài khoản & Token tinh gọn (ẩn nút Chạy ngầm CDP & bỏ hoàn toàn Khung Popup Gọn).\n• Tự động lưu Email / Số điện thoại đăng nhập làm tên tài khoản, chỉ hiển thị rõ ràng Token đã sử dụng & Token còn lại.\n• Đổi màu nền 2 vùng tách biệt (Khung trên + Sidebar 1 màu, Khu vực trung tâm & các hàng 1 màu nổi bật dễ nhìn).\n• Cập nhật đầy đủ mục Hướng Dẫn Sử Dụng khớp quy trình đăng nhập trực tiếp trong phần mềm.",
+  "publishedAt": "2026-11-07T20:59:03.761Z",
   "mandatory": false,
-  "patchFile": "update_v3.2.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.2.zip",
-  "patchSize": 211231,
-  "sha256": "38df0368ec4dfa2a2feb8d7391eea8d43a0573b05295ae8a2fa58707bd88e3a2",
-  "signature": "ucmftqia9Z6qbxoRI2aKMPMwJQpMzDFRQ2EjcRdMb8LrUQ1a9sXsmtgGi-E3VZYuElZskVksxcZTdA6nk97QkV6anE4l00aRDFkTBcRmJqbt74rLTRKe6GtlYaY_el04DD56sUhZsC3I4B06oPB6ad7CjeMmR90rlRiia3i8wgUTPJyEA0_xdSoWVYcJfKPugcEGODSEfQNCb47mLxnCEddJ3sdOYRdRYa7pZ84D7TDHifniqFmNShfrsjhthr9Kx2GBgKHbCIpRJI_Wa1PEhAw-FXSHXaK4b60lnD0d0NSIReWZQUe5LU2J4mq-d8Si2jiNT2GdD7Z9aee_iB7_eA"
+  "patchFile": "update_v3.3.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.3.zip",
+  "patchSize": 209564,
+  "sha256": "c4d1b9f12d554656515077187891df17107a5149df061dad962aebda629805db",
+  "signature": "xBdn2R1InFuc1jOXkEwVKUFZKWspKgs5yRcEo6Sz5xSJ7wy91M_Wt2-35p1w9mP-RTEAnftMnH7bfMGaQK4NGaY6qJ_PdsCREIxUGO_E5HNfzkIG6e0XKG43iAiY-WU2oPFkFMxs95XmFqZVI3fIUnyNh3fib8emIeyBclkD5LlanGV6WPHSGG5cswzLOcAEtr_gueq-PR2ajbSmPyzUhlNaPrisJ3ceJaNfjrp1qOGKN3GnSXCXqsKwC2juGkWZwkRsW1tcB4aVtMkpwX6UiyWpoYLgPDr8YKMfyYlvi8rhTB1gqqAiOapLRd66q7_4NYr8treW-N_dSyj1cUEtZQ"
 }
