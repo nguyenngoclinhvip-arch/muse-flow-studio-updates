@@ -1,12 +1,12 @@
 {
-  "version": "3.1",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v3.1",
-  "changelog": "• Đồng nhất nhân vật tuyệt đối ở video dài ≥ 20s (đính kèm Ảnh tham chiếu nhân vật làm ưu tiên #1 cùng Khung hình cuối video trước làm nối cảnh #2).\n• Thêm góc máy Góc nhìn thứ nhất (POV) và Góc máy đồng nhất (Consistency).\n• Hiển thị rõ Tên đăng nhập, Số Token đã sử dụng và Số Token còn lại ngay trên thanh Topbar & bảng Tài khoản.\n• Gỡ bỏ hoàn toàn chế độ Khóa mặt & màu da gốc cũ.",
-  "publishedAt": "2026-11-07T11:22:57.386Z",
+  "version": "3.2",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.2",
+  "changelog": "• Bổ sung Bảng Đăng Nhập Trực Tiếp Ngay Trong Phần Mềm (nhập Email/SĐT, Mã OTP 6 số, Mật khẩu & 2FA trực tiếp, không lộ Chrome).\n• Bổ sung Khung Đăng Nhập Nhanh (Popup Gọn 480x700 ẩn toàn bộ thanh địa chỉ & tab Chrome, đăng nhập xong tự đóng chuyển chạy ngầm).\n• Tự động sửa triệt để lỗi kẹt khóa Profile (SingletonLock) & lỗi xung đột tiến trình chạy ngầm khi mở đăng nhập.",
+  "publishedAt": "2026-11-07T17:55:47.497Z",
   "mandatory": false,
-  "patchFile": "update_v3.1.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.1.zip",
-  "patchSize": 197910,
-  "sha256": "be8ae866cf9cac5dcad7048870011a1863c47c296a1adb2495ad45cdf9886456",
-  "signature": "SCXtY2Hl0bOJLm9PlOGC81idxo3YbT89iyNaaJ12y6rgyZbgchfsX5dEvGyrF5aurlk1ULwS3udWEnAcNir_G5HYbiX-7cYsYqPuTQttmJvSGz9QChsd7r8voJO_ib2IisnVzH9DU6jYqs1CWlqBM22om9EdKHAwGNMuus-xsqSvvmO2dMtvIXFAhc2vgh5zYXd5k-PRg2dvQJbfPsGQpD6SJKyfo5ru_-bjor2twWA4rI1ifJ_P9dEI5XyxBRuWRISrfi_TBWwau6HU31DBLO18U-Tjyx72ANwX3Lr6vQvYyWlGSOcgW7pRLcI4CUIrj4qC_nwU5GF1yWUXle8jNg"
+  "patchFile": "update_v3.2.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.2.zip",
+  "patchSize": 211231,
+  "sha256": "38df0368ec4dfa2a2feb8d7391eea8d43a0573b05295ae8a2fa58707bd88e3a2",
+  "signature": "ucmftqia9Z6qbxoRI2aKMPMwJQpMzDFRQ2EjcRdMb8LrUQ1a9sXsmtgGi-E3VZYuElZskVksxcZTdA6nk97QkV6anE4l00aRDFkTBcRmJqbt74rLTRKe6GtlYaY_el04DD56sUhZsC3I4B06oPB6ad7CjeMmR90rlRiia3i8wgUTPJyEA0_xdSoWVYcJfKPugcEGODSEfQNCb47mLxnCEddJ3sdOYRdRYa7pZ84D7TDHifniqFmNShfrsjhthr9Kx2GBgKHbCIpRJI_Wa1PEhAw-FXSHXaK4b60lnD0d0NSIReWZQUe5LU2J4mq-d8Si2jiNT2GdD7Z9aee_iB7_eA"
 }
