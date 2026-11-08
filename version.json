@@ -1,12 +1,12 @@
 {
-  "version": "3.3",
-  "title": "MUSE FLOW STUDIO v3.3 — Tinh Gọn Quản Lý Tài Khoản, Tách Màu Nền Nổi Bật & Hướng Dẫn Mới",
-  "changelog": "• Gộp duy nhất 1 nút Quản lý Tài khoản & Token tinh gọn (ẩn nút Chạy ngầm CDP & bỏ hoàn toàn Khung Popup Gọn).\n• Tự động lưu Email / Số điện thoại đăng nhập làm tên tài khoản, chỉ hiển thị rõ ràng Token đã sử dụng & Token còn lại.\n• Đổi màu nền 2 vùng tách biệt (Khung trên + Sidebar 1 màu, Khu vực trung tâm & các hàng 1 màu nổi bật dễ nhìn).\n• Cập nhật đầy đủ mục Hướng Dẫn Sử Dụng khớp quy trình đăng nhập trực tiếp trong phần mềm.",
-  "publishedAt": "2026-11-07T20:59:03.761Z",
+  "version": "3.4",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.4",
+  "changelog": "• Bỏ nút 'Đổi nick' và 'Đổi tài khoản khác' theo yêu cầu.\n• Cho phép bấm trực tiếp vào tên Dự án (#1, #2, #3...) hoặc biểu tượng ✎ trên thanh đầu trang để sửa tên tùy ý.\n• Sửa dứt điểm nút 'Mở Thư Mục Trên Máy' trong Kho Output để luôn bật cửa sổ Windows Explorer lên phía trước.\n• Bỏ nút 'Thư Mục Xuất' trên thanh công cụ.",
+  "publishedAt": "2026-11-08T04:25:50.980Z",
   "mandatory": false,
-  "patchFile": "update_v3.3.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.3.zip",
-  "patchSize": 209564,
-  "sha256": "c4d1b9f12d554656515077187891df17107a5149df061dad962aebda629805db",
-  "signature": "xBdn2R1InFuc1jOXkEwVKUFZKWspKgs5yRcEo6Sz5xSJ7wy91M_Wt2-35p1w9mP-RTEAnftMnH7bfMGaQK4NGaY6qJ_PdsCREIxUGO_E5HNfzkIG6e0XKG43iAiY-WU2oPFkFMxs95XmFqZVI3fIUnyNh3fib8emIeyBclkD5LlanGV6WPHSGG5cswzLOcAEtr_gueq-PR2ajbSmPyzUhlNaPrisJ3ceJaNfjrp1qOGKN3GnSXCXqsKwC2juGkWZwkRsW1tcB4aVtMkpwX6UiyWpoYLgPDr8YKMfyYlvi8rhTB1gqqAiOapLRd66q7_4NYr8treW-N_dSyj1cUEtZQ"
+  "patchFile": "update_v3.4.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.4.zip",
+  "patchSize": 212789,
+  "sha256": "a5d82c80cdf37f8e5a187a5e213704c4cef265f35984e28569fb9d61bd5c73ea",
+  "signature": "LkYSazAHM5Y5zujo2CeyIncrt88QX4BAJZubzjYNS59Dl1izTfP22W5hSSkVtc2gmIvTGw3O1OhS185PeXTcuejJ7qDltmGFHBLQam9FrDgByBzLTW0IlyegcdXkk-4RH-MPx6x4NuKDEFT93jphvRcU6KchPlHHlAhOzpt4BD8qWKD60aDSgQo9muNwzhLNVa8pH309wKFkY3AxLGpHBBt41ZSLy5o1ju5gOwLDBT_8OOnp2sHNp1oKirZ21ZFstNoCGsCtyV8J17t9xnRXpzRrTgldcSw2o8d9CIZwTaItQgK20eHGsK83Ot_PlSWM6-Rv9a0UYkOf_3tztvpfaQ"
 }
