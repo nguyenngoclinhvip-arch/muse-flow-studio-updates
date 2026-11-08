@@ -1,12 +1,12 @@
 {
-  "version": "3.5",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v3.5",
-  "changelog": "• Khắc phục triệt để lỗi nút 'Mở Thư Mục Trên Máy' trên Windows 10/11 bằng trình mở native MfsOpenFolder.exe (tự động đưa cửa sổ Explorer lên trên cùng, tô sáng video đang chọn, tự dọn tiến trình COM -Embedding treo ngầm và bảo vệ khởi động đúng màn hình chính Default).",
-  "publishedAt": "2026-11-08T05:01:32.050Z",
+  "version": "3.6",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.6",
+  "changelog": "• Đổi tên thư mục lưu video trong Output_Videos theo đúng tên tài khoản Gmail / SĐT đăng nhập (VD: Output_Videos\\tenban@gmail.com) thay cho mã account_9222, tự động chuyển video từ thư mục mã cũ sang thư mục Gmail để dễ dàng tìm kiếm.",
+  "publishedAt": "2026-11-08T05:15:08.716Z",
   "mandatory": false,
-  "patchFile": "update_v3.5.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.5.zip",
-  "patchSize": 220801,
-  "sha256": "1b1ef305a67c89b0198e78ff2afbfc3b8c319cb612bdb96aa6d086576a4e8958",
-  "signature": "NpSuANFCimFgaePEjoXy42wEoAUl7xNDaZ2lqxYCqnARRKKbFDZ9Xulq3ND_0v2osfBUA94z0krWymVL2dqZ4bpmTUOmgd358k9SLc0115Di502L-3A4P8OAqgg3wrikc1fu6gPH7J9S3xuEh3fDCVmT5EpysDj7sKKgA7UpCdhPGLhN3oOw9b3SQhObMJhW3pDYevhWGn5Puxe9mld053bascNIZI4xPxdGVl-R7q6SayiCKbXcRqIIvPWNE-fJeNjkm_SZZzMkrBQh1w8nJwlUK-FoaOeN_rjVyHM_0rBh_alm6goTA-8uPgGHlSeiQYQCw1XOBgswbgyLMONs4g"
+  "patchFile": "update_v3.6.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.6.zip",
+  "patchSize": 223037,
+  "sha256": "c07c1ca959bc4912433a2091d456152e94ca3947152cc811a71b5fe9cd879336",
+  "signature": "B8LAYyTEdz42rLUzKavmVv3xPtBJvJ1fmmCuws3a32IVMzfJ6HeZ_od5K9ArpzqARHrqdK_Z4jvhqXedrroAQVAhORLPYEmtnhr3LHv-WrwLquy50mFMQy5Gf_0ger0tYCfOoesw_HrIHN7Zhw4oP3ISSz8CrqEpTqtVnQKPv8-2mhnJo6P9P6oWS1i8vrJknJkrmXfeoCSdNmbki1ZwHeHWoKUgVcED3cG58RVB3cGGkFDx5SRWfoyJt_kyDbW--VbM2dlVZHKCom-zniUDzr0Vb0I87V3mysb4ffpARBe5MgwV-nJid_X0HWofmKoxPTL1KhbckEyOpXva9JlunQ"
 }
