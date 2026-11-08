@@ -1,12 +1,12 @@
 {
-  "version": "3.4",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v3.4",
-  "changelog": "• Bỏ nút 'Đổi nick' và 'Đổi tài khoản khác' theo yêu cầu.\n• Cho phép bấm trực tiếp vào tên Dự án (#1, #2, #3...) hoặc biểu tượng ✎ trên thanh đầu trang để sửa tên tùy ý.\n• Sửa dứt điểm nút 'Mở Thư Mục Trên Máy' trong Kho Output để luôn bật cửa sổ Windows Explorer lên phía trước.\n• Bỏ nút 'Thư Mục Xuất' trên thanh công cụ.",
-  "publishedAt": "2026-11-08T04:25:50.980Z",
+  "version": "3.5",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.5",
+  "changelog": "• Khắc phục triệt để lỗi nút 'Mở Thư Mục Trên Máy' trên Windows 10/11 bằng trình mở native MfsOpenFolder.exe (tự động đưa cửa sổ Explorer lên trên cùng, tô sáng video đang chọn, tự dọn tiến trình COM -Embedding treo ngầm và bảo vệ khởi động đúng màn hình chính Default).",
+  "publishedAt": "2026-11-08T05:01:32.050Z",
   "mandatory": false,
-  "patchFile": "update_v3.4.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.4.zip",
-  "patchSize": 212789,
-  "sha256": "a5d82c80cdf37f8e5a187a5e213704c4cef265f35984e28569fb9d61bd5c73ea",
-  "signature": "LkYSazAHM5Y5zujo2CeyIncrt88QX4BAJZubzjYNS59Dl1izTfP22W5hSSkVtc2gmIvTGw3O1OhS185PeXTcuejJ7qDltmGFHBLQam9FrDgByBzLTW0IlyegcdXkk-4RH-MPx6x4NuKDEFT93jphvRcU6KchPlHHlAhOzpt4BD8qWKD60aDSgQo9muNwzhLNVa8pH309wKFkY3AxLGpHBBt41ZSLy5o1ju5gOwLDBT_8OOnp2sHNp1oKirZ21ZFstNoCGsCtyV8J17t9xnRXpzRrTgldcSw2o8d9CIZwTaItQgK20eHGsK83Ot_PlSWM6-Rv9a0UYkOf_3tztvpfaQ"
+  "patchFile": "update_v3.5.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.5.zip",
+  "patchSize": 220801,
+  "sha256": "1b1ef305a67c89b0198e78ff2afbfc3b8c319cb612bdb96aa6d086576a4e8958",
+  "signature": "NpSuANFCimFgaePEjoXy42wEoAUl7xNDaZ2lqxYCqnARRKKbFDZ9Xulq3ND_0v2osfBUA94z0krWymVL2dqZ4bpmTUOmgd358k9SLc0115Di502L-3A4P8OAqgg3wrikc1fu6gPH7J9S3xuEh3fDCVmT5EpysDj7sKKgA7UpCdhPGLhN3oOw9b3SQhObMJhW3pDYevhWGn5Puxe9mld053bascNIZI4xPxdGVl-R7q6SayiCKbXcRqIIvPWNE-fJeNjkm_SZZzMkrBQh1w8nJwlUK-FoaOeN_rjVyHM_0rBh_alm6goTA-8uPgGHlSeiQYQCw1XOBgswbgyLMONs4g"
 }
