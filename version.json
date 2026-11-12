@@ -1,12 +1,12 @@
 {
-  "version": "3.6",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v3.6",
-  "changelog": "• Đổi tên thư mục lưu video trong Output_Videos theo đúng tên tài khoản Gmail / SĐT đăng nhập (VD: Output_Videos\\tenban@gmail.com) thay cho mã account_9222, tự động chuyển video từ thư mục mã cũ sang thư mục Gmail để dễ dàng tìm kiếm.",
-  "publishedAt": "2026-11-08T05:15:08.716Z",
+  "version": "3.7",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.7",
+  "changelog": "• Chuẩn hóa chế độ tải 2–5 ảnh tham chiếu mặc định là Đa góc nhìn (giúp AI hiểu trọn vẹn nhiều mặt hình khối 3D của sản phẩm & nhân vật, chống tự ý biến hình/che quạt).\n• Bổ sung nút chuyển đổi nhanh 1 chạm [⇄ Biến hình / ⇄ Đa góc] ngay trên từng hàng khi muốn làm video biến hình thay nhiều bộ đồ.",
+  "publishedAt": "2026-11-12T18:35:01.115Z",
   "mandatory": false,
-  "patchFile": "update_v3.6.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.6.zip",
-  "patchSize": 223037,
-  "sha256": "c07c1ca959bc4912433a2091d456152e94ca3947152cc811a71b5fe9cd879336",
-  "signature": "B8LAYyTEdz42rLUzKavmVv3xPtBJvJ1fmmCuws3a32IVMzfJ6HeZ_od5K9ArpzqARHrqdK_Z4jvhqXedrroAQVAhORLPYEmtnhr3LHv-WrwLquy50mFMQy5Gf_0ger0tYCfOoesw_HrIHN7Zhw4oP3ISSz8CrqEpTqtVnQKPv8-2mhnJo6P9P6oWS1i8vrJknJkrmXfeoCSdNmbki1ZwHeHWoKUgVcED3cG58RVB3cGGkFDx5SRWfoyJt_kyDbW--VbM2dlVZHKCom-zniUDzr0Vb0I87V3mysb4ffpARBe5MgwV-nJid_X0HWofmKoxPTL1KhbckEyOpXva9JlunQ"
+  "patchFile": "update_v3.7.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.7.zip",
+  "patchSize": 227111,
+  "sha256": "fd4726533af03cd804692845fbb50e0f286f8127e8889c3e3be8a78aa6ca166d",
+  "signature": "sDz3lmW3DxAG-hW8Mr1Yyjc0RgRnd0_rAQrRv__wre97xn-KGzC-_8iFS7t6m3c88QgplviyS4T5VY5nHdacOSuidX9wWrfvZYu6V6IsLoX1t30JpenCvwlU5c-aibp3PwO660vwlIu4ZvW8T5blCdxksKW7As9Nvon2M2tJSKXMK6yC_r0W9qioMi9AubpQbd6kPBfip-x7cBs70fXxlsd_8LOZDDAvwNcJIiEGYMOpVnfOoSzZveh_hupw19taBgKdQrvuJQWINfopoGY8EiK9DqtmjPK4yX_ODGwuvx_IfZhJcIqToHwk-63tSXkxS8IL0llamrYGzkR-a9FyGA"
 }
