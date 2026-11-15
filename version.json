@@ -1,12 +1,12 @@
 {
-  "version": "3.7",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v3.7",
-  "changelog": "• Chuẩn hóa chế độ tải 2–5 ảnh tham chiếu mặc định là Đa góc nhìn (giúp AI hiểu trọn vẹn nhiều mặt hình khối 3D của sản phẩm & nhân vật, chống tự ý biến hình/che quạt).\n• Bổ sung nút chuyển đổi nhanh 1 chạm [⇄ Biến hình / ⇄ Đa góc] ngay trên từng hàng khi muốn làm video biến hình thay nhiều bộ đồ.",
-  "publishedAt": "2026-11-12T18:35:01.115Z",
+  "version": "3.8",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.8",
+  "changelog": "• Khắc phục triệt để lỗi bấm nút Làm Mới (Xóa trắng các hàng) nhưng video cũ trên khung chat Muse.ai tự động nhảy ngược lại vào hàng sau vài giây.\n• Tự động khóa mã phiên video cũ, hủy tác vụ chạy ngầm đang dở và mở đoạn chat mới sạch trên Muse.ai ngay khi bấm Làm Mới.",
+  "publishedAt": "2026-11-15T08:53:18.932Z",
   "mandatory": false,
-  "patchFile": "update_v3.7.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.7.zip",
-  "patchSize": 227111,
-  "sha256": "fd4726533af03cd804692845fbb50e0f286f8127e8889c3e3be8a78aa6ca166d",
-  "signature": "sDz3lmW3DxAG-hW8Mr1Yyjc0RgRnd0_rAQrRv__wre97xn-KGzC-_8iFS7t6m3c88QgplviyS4T5VY5nHdacOSuidX9wWrfvZYu6V6IsLoX1t30JpenCvwlU5c-aibp3PwO660vwlIu4ZvW8T5blCdxksKW7As9Nvon2M2tJSKXMK6yC_r0W9qioMi9AubpQbd6kPBfip-x7cBs70fXxlsd_8LOZDDAvwNcJIiEGYMOpVnfOoSzZveh_hupw19taBgKdQrvuJQWINfopoGY8EiK9DqtmjPK4yX_ODGwuvx_IfZhJcIqToHwk-63tSXkxS8IL0llamrYGzkR-a9FyGA"
+  "patchFile": "update_v3.8.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.8.zip",
+  "patchSize": 228468,
+  "sha256": "44f04156930b5c5dddcc592c52de4f5fefb319f60fbcc2c1014dff99c9a26470",
+  "signature": "L0CmfEwsME-eJzTvXR2FwdYeIFY_fSo0xmK8dc4BGzIslLetha2NinYJnv9C0Auv0zMozOvXReQoFgHZgNk1g1RkdXvpwstL52TyHHeK3i9ytgwElgLhSIj-SoChvY4Wz-ASMZ_i46X-2cRfB4zuuE9b5BWqBq_CIPGBQFXRt1GeZZiS7aTHAKeuWNsGqlKb7jxqo52BY46FKEZFXYtQi9omVUHuu0P9JhXJVk6OtHzGn86odv37KLO3BrIjy2PwkSO1HtGSg_KHKY4T0tA3b5_zw2f--yYM_MjySNEvbnXstXWq_f7SQroHgfpNMAKpbkZ3lAr-LR32E0FHXj9VoQ"
 }
