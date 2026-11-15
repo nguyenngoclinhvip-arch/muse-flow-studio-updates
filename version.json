@@ -1,12 +1,12 @@
 {
-  "version": "3.9",
-  "title": "Bản cập nhật MUSE FLOW STUDIO v3.9",
-  "changelog": "Nâng cấp v3.9: Bổ sung Chế Độ Làm Phim AI chuyên nghiệp (13 thể loại phim hoạt hình/lịch sử/cổ trang/điện ảnh, Đạo diễn kịch bản dài tự chia phân cảnh, Hồ sơ Diễn viên đa nhân vật khóa mặt & giọng thoại phân vai, Xuất bộ phim hoàn chỉnh kèm nhạc nền); Chế độ Affiliate TikTok & Shopee chuẩn hóa thời lượng tối đa 60s.",
-  "publishedAt": "2026-11-15T16:11:00.558Z",
+  "version": "3.8",
+  "title": "Bản cập nhật MUSE FLOW STUDIO v3.8",
+  "changelog": "Phiên bản ổn định v3.8: Tối ưu tải nhiều ảnh tham chiếu đa góc nhìn cho sản phẩm & nhân vật và làm mới sạch hoàn toàn các hàng.",
+  "publishedAt": "2026-11-15T17:20:18.470Z",
   "mandatory": false,
-  "patchFile": "update_v3.9.zip",
-  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.9.zip",
-  "patchSize": 272853,
-  "sha256": "0a3588312457546f099667f81d46e63a336e26320347f30056a65f69908cfa5f",
-  "signature": "DUoYyPNZ-aBfD4PBLbiGtBWt0aSmw8XIbGp9T1A33vEgCvyy_v-IWBePNQLU8Xl9YQOC6KfdrDWGT3taKK65dlt-Q1HezyAo9G0ffvMq3Fh3PBGEvXV7qjyUSVbtCaDCN1qagd9_r6musRKn3bXAXCSCHP8IUFpPU8TlR8ywOneGLKgWazdRd7V1KQe-KjIBzcs1o8CUCUwn4Y8Eac50QOZOt8XsD5EiBjHfhgf4fEzhvewO0mc-13Qd-EPgFhRaLknC2DvbSGU2CyuaFYqkB9DR6DPGNEW_0KOKQBQS7Rmq3vm-9p-39x9ZcguAWzm8z0B5u5S3AmyUEbFmbCXJcA"
+  "patchFile": "update_v3.8.zip",
+  "patchUrl": "https://raw.githubusercontent.com/nguyenngoclinhvip-arch/muse-flow-studio-updates/main/patches/update_v3.8.zip",
+  "patchSize": 228468,
+  "sha256": "860fb0cbe1a19dd56c985dae616dc099385c2e060d19afe9bec616b16a94dff7",
+  "signature": "o-yhIBMUu1vXGJqEPWaUdn-QzjgUObbZ-0FW3rJtvzUsJiGWJKe77Dw5Fgpy9TIaCNSfHAUfsHMDTD1oN64mO9_69G-8Cj_23wfCeeqJXiQ8LwXJlDEovqt4EtTSmMoo1DLV087d6vWAaDBrXl6NRERPAy-a2dW9z4W0atAv2-4pNJ_rHoLEhmbVQVJoRZK1E2Q3TruSkqhRzKyyX914ErBYwlQzWXHiTT3pgMa0QSvvPZVwEJUrPPeiOTwTi12h4SLIb-2s4EPE7fi63x-DJ3cWO2amJe9UoVIJ-RoFi92LrcF4APCbHmSzEt_pkl9-SS9jNOEb2Iu3RzKPWWNaew"
 }
